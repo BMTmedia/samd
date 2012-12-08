@@ -26,6 +26,10 @@ h3.table-title {
 	border-radius: 4px;
 }
 
+.table-container fieldset {
+	margin-right:30px;
+}
+
 #middle-zone .filter-bar {
 }
 
